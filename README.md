@@ -31,16 +31,6 @@
 
 ---
 
-## **Screenshots**
-
-### Game Board Example
-![Bejeweled Blitz Screenshot](https://via.placeholder.com/800x400.png?text=Bejeweled+Blitz+Screenshot)
-
-### Combo Explosion
-![Combo Screenshot](https://via.placeholder.com/800x400.png?text=Combo+Explosion)
-
----
-
 ## **Scoring System**
 
 - Match 3 gems: **50 points**
