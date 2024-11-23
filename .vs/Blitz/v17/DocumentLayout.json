@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\Bejewelled Blitz\\",
+  "WorkspaceRootPath": "D:\\Projects\\Bejewelled-Blitz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{494B1360-7D43-40B9-B608-8DDD9BFC5698}|Experiment\\Experiment.vcxproj|E:\\Projects\\Bejewelled Blitz\\Experiment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{494B1360-7D43-40B9-B608-8DDD9BFC5698}|Experiment\\Experiment.vcxproj|D:\\Projects\\Bejewelled-Blitz\\Experiment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{494B1360-7D43-40B9-B608-8DDD9BFC5698}|Experiment\\Experiment.vcxproj|solutionrelative:Experiment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Projects\\Bejewelled Blitz\\Experiment\\main.cpp",
+              "DocumentMoniker": "D:\\Projects\\Bejewelled-Blitz\\Experiment\\main.cpp",
               "RelativeDocumentMoniker": "Experiment\\main.cpp",
-              "ToolTip": "E:\\Projects\\Bejewelled Blitz\\Experiment\\main.cpp",
+              "ToolTip": "D:\\Projects\\Bejewelled-Blitz\\Experiment\\main.cpp",
               "RelativeToolTip": "Experiment\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-28T17:23:31.122Z",
               "EditorCaption": ""
